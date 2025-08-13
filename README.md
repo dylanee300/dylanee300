@@ -3,7 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dylanee300&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanee300&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -85,8 +84,22 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dylanee300.dylanee300&"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/dylanee300/dylanee300/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<p align="left"></p>
 
 ###
