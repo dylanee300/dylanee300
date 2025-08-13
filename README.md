@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dylan, and I'm a full-stack web developer. I love TypeScript and C++.</h2>
+<h2 align="left">Hi 👋! My name is Dylan, I'm a full-stack web developer. I love TypeScript and C++.</h2>
 
 ###
 
