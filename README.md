@@ -1,8 +1,9 @@
-<h2 align="left">Hi 👋! My name is Dylan, I'm a full-stack web developer. I love TypeScript and C++.</h2>
+<h2 align="left">Hi 👋! My name is Dylan, and I'm a full-stack web developer. I love TypeScript and C++.</h2>
 
 ###
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=dylanee300&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanee300&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -24,6 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
@@ -81,7 +85,9 @@
 
 ###
 
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dylanee300.dylanee300&"  />
+</div>
 
 ###
 
