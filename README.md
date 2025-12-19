@@ -1,4 +1,4 @@
-<h2 align="left">Hi, My Name is Dylan</h2>
+<h2 align="left">Hi, My Name is Dylan<br><br>Self taught developer, native apps and web development.</h2>
 
 ###
 
@@ -87,7 +87,4 @@
 </div>
 
 ###
-
-<br clear="both">
-
 ###
