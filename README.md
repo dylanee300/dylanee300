@@ -90,6 +90,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dylanee300/dylanee300/output/snake.svg" alt="Snake animation" />
-
 ###
