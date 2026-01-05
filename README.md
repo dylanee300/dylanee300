@@ -1,30 +1,3 @@
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    padding: 2rem;
-    background: #fff;
-  }
-  h1 {
-    margin-bottom: 2rem;
-  }
-  .icon-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
-    gap: 20px 30px;
-    justify-items: center;
-    max-width: 600px;
-    margin: 0 auto;
-  }
-  .icon-grid img {
-    width: 60px;
-    height: 60px;
-    object-fit: contain;
-  }
-</style>
-</head>
-<body>
-
 <h1>Hey 👋 My Name Is Dylan</h1>
 
 <div class="icon-grid">
