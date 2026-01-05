@@ -15,7 +15,6 @@
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=swift" alt="Swift" />
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" />
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
 
   <!-- Frameworks / Libraries -->
