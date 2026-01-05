@@ -1,47 +1,76 @@
-<h2 align="left">Hi 👋! My name is Dylan - Native apps and web development</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Skills Icons</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 2rem;
+    background: #fff;
+  }
+  h1 {
+    margin-bottom: 2rem;
+  }
+  .icon-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+    gap: 20px 30px;
+    justify-items: center;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  .icon-grid img {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+  }
+</style>
+</head>
+<body>
 
-###
+<h1>Hey 👋 My Name Is Dylan</h1>
 
-<div align="center">
+<div class="icon-grid">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="cs" />
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+
+  <!-- Frameworks / Libraries -->
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=astro" alt="Astro" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
+
+  <!-- DevOps / Tools -->
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" />
+  <img src="https://skillicons.dev/icons?i=digitalocean" alt="DigitalOcean" />
+ <!-- <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" /> -->
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.postimg.cc/9FGTTd1g/molang.jpg"  />
-
-###
-
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-
-
-###
+</body>
+</html>
